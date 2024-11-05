@@ -1,6 +1,6 @@
 ****************************************************************************************************************************
 """
-#c main file: recognize string
+#c main file: recognize_string
 """
 #include <stdio.h>
 #include <stdlib.h>
